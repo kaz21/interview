@@ -1,3 +1,5 @@
+import static org.junit.Assert.assertEquals;
+
 import org.junit.Test;
 import org.junit.runner.JUnitCore;
 
@@ -8,6 +10,8 @@ public class Solution {
   }
 
   @Test
-  public void test() {}
+  public void test() {
+    assertEquals(true, true);
+  }
 
 }
