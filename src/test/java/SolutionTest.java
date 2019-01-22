@@ -1,8 +1,8 @@
 import org.junit.Test;
 
-class SolutionTest {
+public class SolutionTest {
 
   @Test
-  void test() {}
+  public void test() {}
 
 }
